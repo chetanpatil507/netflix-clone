@@ -19,14 +19,14 @@ function Nav() {
     <div className={`nav ${show && "nav__black"}`}>
       <img
         className="nav__logo"
-        // src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"
-        src="src\580b57fcd9996e24bc43c529.png"
+        src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png"
+        // src="580b57fcd9996e24bc43c529.png"
         alt="Netflix Logo"
       />
 
       <img
         className="nav__avatar"
-        src="https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_400x400.png"
+        src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png"
         alt="Netflix Avatar"
       />
     </div>
